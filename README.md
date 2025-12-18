@@ -28,6 +28,9 @@ The analysis demonstrates proper handling of raw data, data cleaning practices, 
 5. Prepared insights for reporting and visualization
 
 ---
+## Key Insights
+- High-value customers contribute significantly to total revenue
+- Repeat customers show higher average spending
+- Certain customer segments demonstrate consistent purchase behavior
 
-## Folder Structure
 
